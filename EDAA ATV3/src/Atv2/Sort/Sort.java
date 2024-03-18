@@ -34,5 +34,5 @@ public class Sort {
             }
             nameList.set(j+1,temp);
         }
-\    }
+    }
 }
