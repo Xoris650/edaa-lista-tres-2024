@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Frase: ");
         String frase = sc.nextLine();
 
+        //!TIRAR DUVIDA COM PROFESSORA
         char[] listChar = Sort.bubbleInsertion(frase);
 
         System.out.println(listChar);

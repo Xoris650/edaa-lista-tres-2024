@@ -26,7 +26,7 @@ public class Main {
         System.out.println("Quantos nomes deseja digitar?");
         entry = sc.nextInt();
         for(int i = 0; i < entry; i++){
-            System.out.printf("Nome #%d: ", i);
+            System.out.printf("Nome #%d: ", i+1);
             String name = sc.next();
             names.add(name);
         }
