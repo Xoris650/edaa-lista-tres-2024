@@ -1,6 +1,6 @@
-package Atv1.Classes;
+package PDF.Atv1.Classes;
 
-import Atv1.Interface.GenericPerson;
+import PDF.Atv1.Interface.GenericPerson;
 
 import java.util.Random;
 

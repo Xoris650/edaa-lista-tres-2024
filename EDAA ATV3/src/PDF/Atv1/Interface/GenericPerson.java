@@ -1,4 +1,4 @@
-package Atv1.Interface;
+package PDF.Atv1.Interface;
 
 
 public interface GenericPerson {

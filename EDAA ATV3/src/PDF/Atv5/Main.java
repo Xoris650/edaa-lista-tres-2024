@@ -1,6 +1,6 @@
-package Atv5;
+package PDF.Atv5;
 
-import Atv5.Sort.Sort;
+import PDF.Atv5.Sort.Sort;
 
 import java.util.Scanner;
 

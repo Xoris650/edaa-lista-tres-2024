@@ -1,7 +1,7 @@
-package Atv1;
+package PDF.Atv1;
 
-import Atv1.Classes.Pessoa;
-import Atv1.Classes.Sort;
+import PDF.Atv1.Classes.Pessoa;
+import PDF.Atv1.Classes.Sort;
 
 import java.util.ArrayList;
 
