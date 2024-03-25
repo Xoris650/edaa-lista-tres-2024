@@ -1,6 +1,6 @@
-package PDF.Atv2;
+package PDF_Ord.Atv2;
 
-import PDF.Atv2.Sort.Sort;
+import PDF_Ord.Atv2.Sort.Sort;
 
 import java.util.ArrayList;
 import java.util.Scanner;

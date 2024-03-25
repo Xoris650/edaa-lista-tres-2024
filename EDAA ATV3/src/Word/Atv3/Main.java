@@ -6,6 +6,11 @@ import Word.Atv3.Sort.Sort;
 import java.util.ArrayList;
 
 public class Main {
+
+    /**
+     * @author Gabriel Evaristo
+     * @param produtos ArrayList - Lista de produtos a serem ordenados e mostrados no console
+     */
     public static void printAll(ArrayList<Produto> produtos){
         System.out.println("Desordenado: ");
         System.out.println("-------------");
