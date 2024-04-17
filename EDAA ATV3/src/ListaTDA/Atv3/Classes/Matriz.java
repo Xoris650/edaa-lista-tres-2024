@@ -5,6 +5,18 @@ public class Matriz {
     private int column;
     private int[][] matriz;
 
+    public int getRow() {
+        return row;
+    }
+
+    public int getColumn() {
+        return column;
+    }
+
+    public int[][] getMatriz() {
+        return matriz;
+    }
+
     public void createMatriz(int row, int column){
         this.row = row;
         this.column = column;
